@@ -1,0 +1,220 @@
+h1, h2, h3 {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+}
+
+.logoin {
+    height: 85px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.form {
+    border: 1px solid #e1e1e1;
+}
+
+.search {
+    height: 35px;
+    width: 440px;
+    border: none;
+}
+
+.btn {
+    background: none;
+    border: none;
+}
+
+.logoin-input {
+    display: flex;
+    justify-content: center;
+}
+
+.logoin-basket {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.price {
+    color: #afafaf;
+    font-weight: bold;
+    margin: 10px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 27px;
+}
+
+.price-basket {
+    color: #afafaf;
+    font-weight: bold;
+    margin: 10px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 33px;
+}
+
+.menu {
+    height: 50px;
+    width: 100%;
+    background-color: #4ccfc1;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list li {
+    list-style-type: none;
+    font-size: 21px;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+}
+
+.list a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.list span {
+    padding: 0 12px;
+}
+
+.header {
+    height: 445px;
+    background-color: #38c7b4;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.main-text {
+    width: 420px;
+    color: #ffffff;
+}
+
+.main-text a {
+    color: #ffffff;
+    font-family: 'Oswald', sans-serif;
+}
+
+.main-text p {
+    margin: 30px 0;
+}
+
+.show-button {
+    text-decoration: none;
+    font-weight: bold;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+
+.top-products {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 190px;
+}
+
+.top-products p {
+    color: #afafaf;
+    font-weight: bold;
+}
+
+.top-products img {
+    margin-right: 20px;
+}
+
+.shoes {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.mainshirt {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.pants {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.h-products {
+    background-color: #37c6b0;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.shop-link {
+    background-color: #3cc395;
+    border-radius: 4px;
+    padding: 8px 20px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-family: 'Oswald', sans-serif;
+}
+
+.shop-link:hover {
+    color: #ffffff;
+}
+
+.product-inner {
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #e4e4e4;
+    border-bottom: 5px solid #3cc395;
+
+}
+
+.product-inner p {
+    color: #afafaf;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+.product-inner img {
+    height: 150px;
+    width: auto;
+    margin-bottom: 5px;
+}
+
+.footer {
+    background-color: #3cc3b5;
+    padding: 45px 0;
+    margin-top: 65px;
+}
+
+.footer a {
+    color: #ffffff;
+}
+
+.footer h3 {
+    margin-bottom: 15px;
+}
+
+.copy {
+    background-color: #2da89b;
+    text-align: center;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #ffffff;
+}
